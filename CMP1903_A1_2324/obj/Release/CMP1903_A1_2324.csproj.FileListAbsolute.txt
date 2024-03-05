@@ -1,0 +1,7 @@
+/Users/tavisstringer/Documents/GitHub/CMP1903_A1_2324/CMP1903_A1_2324/obj/Release/CMP1903_A1_2324.csproj.AssemblyReference.cache
+/Users/tavisstringer/Documents/GitHub/CMP1903_A1_2324/CMP1903_A1_2324/obj/Release/CMP1903_A1_2324.csproj.CoreCompileInputs.cache
+/Users/tavisstringer/Documents/GitHub/CMP1903_A1_2324/CMP1903_A1_2324/bin/Release/CMP1903_A1_2324.exe.config
+/Users/tavisstringer/Documents/GitHub/CMP1903_A1_2324/CMP1903_A1_2324/bin/Release/CMP1903_A1_2324.exe
+/Users/tavisstringer/Documents/GitHub/CMP1903_A1_2324/CMP1903_A1_2324/bin/Release/CMP1903_A1_2324.pdb
+/Users/tavisstringer/Documents/GitHub/CMP1903_A1_2324/CMP1903_A1_2324/obj/Release/CMP1903_A1_2324.exe
+/Users/tavisstringer/Documents/GitHub/CMP1903_A1_2324/CMP1903_A1_2324/obj/Release/CMP1903_A1_2324.pdb
